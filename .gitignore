@@ -1,0 +1,56 @@
+# ==========================
+# Unity generated folders
+# ==========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# ==========================
+# IDE / Editor junk
+# ==========================
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# ==========================
+# OS files
+# ==========================
+.DS_Store
+Thumbs.db
+
+# ==========================
+# Crash / profiler data
+# ==========================
+sysinfo.txt
+*.stacktrace
+*.memsnap
+
+# ==========================
+# JetBrains Rider / Gradle
+# ==========================
+.gradle/
+
+# ==========================
+# CUSTOM: ignore unused stuff
+# ==========================
+Assets/_Unused/
+Assets/Textures/Inferno/**
+
+# ==========================
+# KEEP IMPORTANT ASSETS
+# ==========================
+# (make sure Materials, Scripts, Prefabs, Scenes are always tracked)
+!Assets/Materials/**
+!Assets/Scripts/**
+!Assets/Prefabs/**
+!Assets/Scenes/**
