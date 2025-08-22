@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: d6d4a89287fb6da41a33d455fbfafe17
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLENDSANDWEED005A
+    second: {fileID: 2100000, guid: 319ed6e94aa328544adc5c8b61ae6a83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CONCRETEWALL032B
+    second: {fileID: 2100000, guid: 17adb6ad5235e2c4e8d9d017cdc23e00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CONCRETEWALL065A
+    second: {fileID: 2100000, guid: be770b59087c97643930f97dd82f9a29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DIRTFLOOR004A
+    second: {fileID: 2100000, guid: 8ff8dd32b2ef89040975c4a5dd4ee099, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INFBASEA
+    second: {fileID: 2100000, guid: 51933663ab42d5748a030468bb1c6fba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INFBASEB
+    second: {fileID: 2100000, guid: c70975759ea86984f8a9f270b0a78157, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INFBASEB.001
+    second: {fileID: 2100000, guid: 8e73e543767f5a149b39f19164689334, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INFBLENDGRASSDIRT001A
+    second: {fileID: 2100000, guid: 14c4948d2a008584eb3a244643a2adf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INFFLRA
+    second: {fileID: 2100000, guid: 5fc53a4e060350e4c89eb2e49a1e40c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INFFLRA.001
+    second: {fileID: 2100000, guid: 465b6f2e1ddffa14ca3ef414b91c40c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INFFLRA.002
+    second: {fileID: 2100000, guid: 3f00b5340317ee04ca9c03cd3c64bd7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INFFLRB
+    second: {fileID: 2100000, guid: 4b99519c024737844a478d649560931b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INFFLRB.001
+    second: {fileID: 2100000, guid: e6499269ca117b84b9cad1c3b722b784, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INFFLRC
+    second: {fileID: 2100000, guid: affbc661c4d782e49af7fc9e01a37df8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INFFLRD
+    second: {fileID: 2100000, guid: f7ea798133c9d4a409a59fd17dd668fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INFFLRD_BLEND_DIRT
+    second: {fileID: 2100000, guid: 1e3b5fdd77e97d044a33f9b5438954fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INFFLRTRIMA
+    second: {fileID: 2100000, guid: f3a5e527642aff4409f3dfdc9cf6cac4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INFSTAIRSATP
+    second: {fileID: 2100000, guid: cfb7adcee50caa4408a2f86eb6789851, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INFWLLB
+    second: {fileID: 2100000, guid: f808d779da7cfec40badd4d883d4ce55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INFWLLD
+    second: {fileID: 2100000, guid: a0218651fff77244d828c7c485162bed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INFWLLF
+    second: {fileID: 2100000, guid: 38fb8357da3040d46a428235bb229496, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INFWOODFLOOR007A
+    second: {fileID: 2100000, guid: 4afb61410f426ca46b1d43975b0d9b5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INFWOODFLOOR008A
+    second: {fileID: 2100000, guid: 23a6f349114bea14b8da48247c1ec91e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: METALGRATE008A
+    second: {fileID: 2100000, guid: 216dcd90f780c4a4682a4d67f6dbc0e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OUTWALL04B
+    second: {fileID: 2100000, guid: 83a88575d98a8ff4f93c14da2343f973, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PLASTERCEILING008A
+    second: {fileID: 2100000, guid: cba7cb4d83410274292526ee2f004392, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PRODFLRA
+    second: {fileID: 2100000, guid: 38aac0cc4c5799f44b1bbdaada959b03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PRODSTEPTP
+    second: {fileID: 2100000, guid: 4b679c2b661ccca45be56c203e855073, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROCKWALL006A
+    second: {fileID: 2100000, guid: d776ec07ae3ed8e439c9c39039c3abf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: STAIRCONCRETE02
+    second: {fileID: 2100000, guid: 33f588467e538f44bbeb83e2bda44f8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: STONEWALL029B
+    second: {fileID: 2100000, guid: dfd7091fe99b41342befb5ea86aa2090, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TIDSTAIRSATP
+    second: {fileID: 2100000, guid: fe94a392823803444b0302e26bfe9ddc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRAIN_DIRT_FLOOR_01
+    second: {fileID: 2100000, guid: 8bcf06c138f1c224794eadcee88dd457, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WOODFLOOR005A
+    second: {fileID: 2100000, guid: da6c63fad38e08446ad98243e802fb30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WOODSTEPS001
+    second: {fileID: 2100000, guid: ee6a7c01e0e86fa4a97929e1d0ca5ee5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cobble04
+    second: {fileID: 2100000, guid: c33ae889ebe9c1946aa5419b3957c5d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: infernowater
+    second: {fileID: 2100000, guid: 209e952a3addf8245b6ab3a39e0c16f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tilefloor009a
+    second: {fileID: 2100000, guid: fe698ed5bdc758d418f0b8bf353885fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tilefloor010a
+    second: {fileID: 2100000, guid: 54b117d742a2793498b011a27ba3ab2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tilefloor018a
+    second: {fileID: 2100000, guid: 1ee44991886720a40bc0d0bf4b6ac652, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

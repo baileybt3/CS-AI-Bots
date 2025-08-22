@@ -10,11 +10,11 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Floors
   - Water
   - UI
-  - 
-  - 
+  - World Geometry
+  - NavMesh
   - 
   - 
   - 
