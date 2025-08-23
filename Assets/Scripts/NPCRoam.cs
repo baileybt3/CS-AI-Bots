@@ -6,7 +6,7 @@ using UnityEngine.AI;
 public class NPCRoam : MonoBehaviour
 {
     [Header("Roam")]
-    public float roamRadius = 15f;
+    public float roamRadius = 20f;
     public float repathDelay = 1.0f;
 
     [Header("Animation")]

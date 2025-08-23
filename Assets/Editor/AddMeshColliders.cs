@@ -1,25 +1,27 @@
 using UnityEngine;
 using UnityEditor;
 
-public class AddMeshColliders : MonoBehaviour
+public class AddMeshColliders : EditorWindow
 {
-    [MenuItem("Tools/Colliders/Add MeshColliders To Selection")]
-    static void AddToSelection()
+    [MenuItem("Tools/Add Mesh Colliders to Children")]
+    static void AddColliders()
     {
-        foreach (var t in Selection.transforms)
+        // Loop through selected objects in the scene
+        foreach (GameObject go in Selection.gameObjects)
         {
-            foreach (var mf in t.GetComponentsInChildren<MeshFilter>(true))
+            MeshRenderer[] meshRenderers = go.GetComponentsInChildren<MeshRenderer>();
+            foreach (MeshRenderer mr in meshRenderers)
             {
-                if (mf.sharedMesh == null) continue;
-                var go = mf.gameObject;
-                if (!go.GetComponent<MeshCollider>())
+                GameObject child = mr.gameObject;
+
+                //Add MeshCollider if not already there
+                if (child.GetComponent<MeshCollider>() == null)
                 {
-                    var mc = go.AddComponent<MeshCollider>();
-                    mc.sharedMesh = mf.sharedMesh;
-                    mc.convex = false; // keep world geometry non-convex
+                    child.AddComponent<MeshCollider>();
                 }
             }
         }
-        Debug.Log("MeshColliders added to selection.");
+
+        Debug.Log("Added MeshColliders to children of selected objects.");
     }
 }
